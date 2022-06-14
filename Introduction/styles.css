@@ -1,0 +1,11 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  padding: 300px;
+  color: green;
+  background-color: rgb(255, 0, 0);
+  font-family: cursive;
+}
